@@ -1,0 +1,14 @@
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\bin\Debug\net8.0\ChatBot_.exe
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\bin\Debug\net8.0\ChatBot_.deps.json
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\bin\Debug\net8.0\ChatBot_.runtimeconfig.json
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\bin\Debug\net8.0\ChatBot_.dll
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\bin\Debug\net8.0\ChatBot_.pdb
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ChatBot_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ChatBot_.AssemblyInfoInputs.cache
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ChatBot_.AssemblyInfo.cs
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ChatBot_.csproj.CoreCompileInputs.cache
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ChatBot_.dll
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\refint\ChatBot_.dll
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ChatBot_.pdb
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ChatBot_.genruntimeconfig.cache
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ref\ChatBot_.dll

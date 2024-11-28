@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\eliel\\Documents\\ProjetosCEFET\\ChatBot_Lacerda\\ChatBot\\ChatBot_\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1F7F692-4BF1-44F2-8321-57E45E801FB5}|ChatBot_.csproj|c:\\users\\eliel\\documents\\projetoscefet\\chatbot_lacerda\\chatbot\\chatbot_\\analisadorlexico\\stopwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F7F692-4BF1-44F2-8321-57E45E801FB5}|ChatBot_.csproj|solutionrelative:analisadorlexico\\stopwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1F7F692-4BF1-44F2-8321-57E45E801FB5}|ChatBot_.csproj|c:\\users\\eliel\\documents\\projetoscefet\\chatbot_lacerda\\chatbot\\chatbot_\\analisadorlexico\\analisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F7F692-4BF1-44F2-8321-57E45E801FB5}|ChatBot_.csproj|solutionrelative:analisadorlexico\\analisador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F7F692-4BF1-44F2-8321-57E45E801FB5}|ChatBot_.csproj|c:\\users\\eliel\\documents\\projetoscefet\\chatbot_lacerda\\chatbot\\chatbot_\\analisadorlexico\\stopwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F7F692-4BF1-44F2-8321-57E45E801FB5}|ChatBot_.csproj|solutionrelative:analisadorlexico\\stopwords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1F7F692-4BF1-44F2-8321-57E45E801FB5}|ChatBot_.csproj|c:\\users\\eliel\\documents\\projetoscefet\\chatbot_lacerda\\chatbot\\chatbot_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StopWords.cs",
               "DocumentMoniker": "C:\\Users\\eliel\\Documents\\ProjetosCEFET\\ChatBot_Lacerda\\ChatBot\\ChatBot_\\AnalisadorLexico\\StopWords.cs",
               "RelativeDocumentMoniker": "AnalisadorLexico\\StopWords.cs",
               "ToolTip": "C:\\Users\\eliel\\Documents\\ProjetosCEFET\\ChatBot_Lacerda\\ChatBot\\ChatBot_\\AnalisadorLexico\\StopWords.cs",
               "RelativeToolTip": "AnalisadorLexico\\StopWords.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwDAAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwDsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T01:52:17.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Analisador.cs",
               "DocumentMoniker": "C:\\Users\\eliel\\Documents\\ProjetosCEFET\\ChatBot_Lacerda\\ChatBot\\ChatBot_\\AnalisadorLexico\\Analisador.cs",
               "RelativeDocumentMoniker": "AnalisadorLexico\\Analisador.cs",
               "ToolTip": "C:\\Users\\eliel\\Documents\\ProjetosCEFET\\ChatBot_Lacerda\\ChatBot\\ChatBot_\\AnalisadorLexico\\Analisador.cs",
               "RelativeToolTip": "AnalisadorLexico\\Analisador.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwHEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T01:10:06.856Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\eliel\\Documents\\ProjetosCEFET\\ChatBot_Lacerda\\ChatBot\\ChatBot_\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T00:59:40.228Z",
               "EditorCaption": ""

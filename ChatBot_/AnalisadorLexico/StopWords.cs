@@ -49,7 +49,18 @@ namespace ChatBot_.AnalisadorLexico
         "umas", "uns", "vai", "vais", "vão", "vários", "vem", "vêm", "vendo", "vens", "ver", "vez", "vezes", "viagem", "vindo", "vinte", "vir", "você", "vocês", "vos", 
         "vós", "vossa", "vossas", "vosso", "vossos", "zero"};
 
+        public bool CompareWithStopwords(String word) {
 
+            if (String.IsNullOrEmpty(word)) { return false; }
 
+            for (int i = 0; i < words.Count; i++)
+            {
+                if (words[i].Equals(word, StringComparison.OrdinalIgnoreCase))
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
     }
 }

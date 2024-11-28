@@ -12,3 +12,4 @@ C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debu
 C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ChatBot_.pdb
 C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ChatBot_.genruntimeconfig.cache
 C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ref\ChatBot_.dll
+C:\Users\eliel\Documents\ProjetosCEFET\ChatBot_Lacerda\ChatBot\ChatBot_\obj\Debug\net8.0\ChatBot_.sourcelink.json

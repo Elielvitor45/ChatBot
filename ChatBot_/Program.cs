@@ -8,9 +8,8 @@ namespace ChatBot_
         {
             Console.WriteLine("Digite a frase a ser validada. ");
             String input = Console.ReadLine();
-            Analisador analisador = new Analisador();
-            analisador.ValidateCharacter(input);
-
+            //Compilar com o input nulo ou vazio irá utilizar o texto padrão de teste
+            Analisador analisador = new Analisador(input);
         }
     }
 }
